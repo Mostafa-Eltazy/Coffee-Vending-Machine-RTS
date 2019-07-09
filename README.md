@@ -7,6 +7,8 @@ it tackles many point such as ths SOFTWARE DESIGN configured in  it's:
 * Collaboration Diagram
 * Use Case Scenarios
 * State Machine Diagram along with full description of system stimuli.
+
+
 Along A full Implemented Java Project Following:
 * Model View Controller Software Archtitcture.
 * Utilizing Multible Design Patterns.
